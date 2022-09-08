@@ -1,0 +1,15 @@
+---
+- Students:
+    - name: raju
+      phno: 88888888888
+      address: 
+         doorno: 567
+         streetno: 2
+         pincode: 500085
+
+    - name: shiva
+      phno: 66666666666
+      adress: 
+         doorno: 678
+         streetno: 1
+         pincode: 500082
