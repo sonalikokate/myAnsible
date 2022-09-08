@@ -2,7 +2,7 @@
 - hosts: mywebservers
   become: yes
   tasks:
-  - name: i want to install webserver on ansible ubuntu nodes
+  - name : i want to install webserver on ansible ubuntu nodes
     apt:
       name: "{{mywebpackforubuntu}}"
       state: present
