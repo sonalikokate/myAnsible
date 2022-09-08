@@ -1,5 +1,5 @@
 ---
-- Students:
+- hosts:
     - name: raju
       phno: 88888888888
       address: 
